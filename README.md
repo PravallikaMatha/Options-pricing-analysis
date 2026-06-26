@@ -222,5 +222,6 @@ jupyter notebook notebooks/options_pricing_analysis.ipynb
 GitHub: https://github.com/PravallikaMatha
 
 **Gullapalli Kavya Durga Sri**
-GitHub: https://github.com/<kavya-github-username>
+GitHub: https://github.com/Kavya552234
+
 
